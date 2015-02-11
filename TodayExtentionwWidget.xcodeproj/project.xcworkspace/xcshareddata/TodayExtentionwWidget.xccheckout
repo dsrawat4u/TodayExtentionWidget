@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C708D505-C9F4-489A-8443-7F8D37D79DEB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TodayExtentionwWidget</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D5D2995799B57139D70C8DB3072FB3152CDBC234</key>
+		<string>https://github.com/dsrawat4u/TodayExtentionWidget</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TodayExtentionwWidget.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D5D2995799B57139D70C8DB3072FB3152CDBC234</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dsrawat4u/TodayExtentionWidget</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D5D2995799B57139D70C8DB3072FB3152CDBC234</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D5D2995799B57139D70C8DB3072FB3152CDBC234</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TodayExtentionWidget</string>
+		</dict>
+	</array>
+</dict>
+</plist>
